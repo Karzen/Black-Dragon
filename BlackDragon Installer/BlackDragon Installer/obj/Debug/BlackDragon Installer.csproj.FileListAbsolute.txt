@@ -1,0 +1,7 @@
+C:\Users\Stefy\source\repos\BlackDragon Installer\BlackDragon Installer\bin\Debug\BlackDragon Installer.exe.config
+C:\Users\Stefy\source\repos\BlackDragon Installer\BlackDragon Installer\bin\Debug\BlackDragon Installer.exe
+C:\Users\Stefy\source\repos\BlackDragon Installer\BlackDragon Installer\bin\Debug\BlackDragon Installer.pdb
+C:\Users\Stefy\source\repos\BlackDragon Installer\BlackDragon Installer\obj\Debug\BlackDragon Installer.csprojAssemblyReference.cache
+C:\Users\Stefy\source\repos\BlackDragon Installer\BlackDragon Installer\obj\Debug\BlackDragon Installer.csproj.CoreCompileInputs.cache
+C:\Users\Stefy\source\repos\BlackDragon Installer\BlackDragon Installer\obj\Debug\BlackDragon Installer.exe
+C:\Users\Stefy\source\repos\BlackDragon Installer\BlackDragon Installer\obj\Debug\BlackDragon Installer.pdb
