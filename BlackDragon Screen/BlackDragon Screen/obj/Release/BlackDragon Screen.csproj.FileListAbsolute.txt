@@ -1,0 +1,10 @@
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\bin\Release\BlackDragon Screen.exe.config
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\bin\Release\BlackDragon Screen.exe
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\bin\Release\BlackDragon Screen.pdb
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\obj\Release\BlackDragon Screen.csprojAssemblyReference.cache
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\obj\Release\BlackDragon_Screen.Form1.resources
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\obj\Release\BlackDragon_Screen.Properties.Resources.resources
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\obj\Release\BlackDragon Screen.csproj.GenerateResource.cache
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\obj\Release\BlackDragon Screen.csproj.CoreCompileInputs.cache
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\obj\Release\BlackDragon Screen.exe
+C:\Users\Stefy\source\repos\BlackDragon Screen\BlackDragon Screen\obj\Release\BlackDragon Screen.pdb
